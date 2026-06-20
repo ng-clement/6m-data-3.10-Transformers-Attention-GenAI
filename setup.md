@@ -26,7 +26,7 @@ conda --version
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/flexfengfeng/dsai-m3-l10-learner.git
+git clone https://github.com/su-ntu-ctp/6m-data-3.10-Transformers-Attention-GenAI.git
 cd dsai-m3-l10-learner
 ```
 
